@@ -1,0 +1,20 @@
+{
+    "name": "Demo",
+    "blocks": {
+        "/blockchain/ethereum": true,
+        "/blockchain/ethereum/solidity": true,
+        "/framework/react": true,
+        "/category/access_control/core-administrator_role": true,
+        "/category/access_control/core-contract_access": true,
+        "/category/asset_value_tracking/core-token": true,
+        "/category/asset_value_tracking/core-token/name": "demo token",
+        "/category/asset_value_tracking/core-token/symbol": "DMT",
+        "/category/asset_value_tracking/core-token/decimals": "6",
+        "/category/asset_value_tracking/core-token/supply": "0",
+        "/category/nft/core-custom_nft": true,
+        "/category/nft/core-custom_nft/template": "collectible",
+        "/category/file_storage/core-ipfs": true,
+        "/category/file_storage/core-ipfs/mode": "single",
+        "/category/collection/core-entity": true
+    }
+}
